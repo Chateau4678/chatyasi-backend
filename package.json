@@ -1,0 +1,13 @@
+{
+  "name": "chat-yasi-backend",
+  "version": "1.0.0",
+  "description": "Chat Yasi AI backend",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
